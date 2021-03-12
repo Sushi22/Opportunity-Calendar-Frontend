@@ -12,8 +12,6 @@ import ScrollTop from './Components/ScrollTop/ScrollTop';
 import { ViewOpportunity } from './Components/ViewOpportunity/';
 import Footer from './Components/Footer/Footer';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import SignUp from './Components/Signup-Login/SignUp';
-import Login from './Components/Signup-Login/Login';
 
 function App() {
   return (
